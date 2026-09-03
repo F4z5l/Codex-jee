@@ -1,3 +1,7 @@
+# CodeXStudys
+
+A premium student ecosystem for study resources, notes, PYQs and mock tests — all in one place. Join the community on Telegram: [@codexstudys](https://t.me/s/codexstudys).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
